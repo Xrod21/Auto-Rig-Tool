@@ -1,2 +1,4 @@
 # Auto-Rig-Tool
-The Maya Auto-Rig Tool is designed to expedite the time needed to generate a completed rig for animations. This tool is written in python and features a series of quick and easy functions that helps customize a rig to ones liking and adjust it based off of what works best for their model. This code uses Mark Schipper's Auto Rigger as it's foundation so if you would like for a video breakdown of the process used to create the tool, here is the link to Mark's auto-rig series: https://www.youtube.com/watch?v=4rcDrbgD1zI&amp;list=PLUug4IT0YMuEQw4yTyWt6n80QMcHd71kf&amp;index=1
+Before You Use:
+	Place the "Autorig" files into documents -> maya -> "year being used" -> scripts folder
+	Do not make a folder for these files, doing so will prevent the files from being read properly and as a result you won't be able to use the tool
